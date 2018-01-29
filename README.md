@@ -17,8 +17,8 @@ How to Make it Work:
    * s = move farther away
    * d = increase angle
  * -,+,arrows - only active when not in first person
-   * - = decrease fov
-   * + = increase fov 
+   * - (minus key) = decrease fov
+   * + (plus key) = increase fov 
    * arrows = change view angle 
  * control the light
    * l/L = toggle light
